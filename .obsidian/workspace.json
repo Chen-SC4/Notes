@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "05c11ebfb265c5dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "92107748811b186a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38f799c1a2457181",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1ad7ae9f8786785",
+    "type": "split",
+    "children": [
+      {
+        "id": "264bdeaceeeac955",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10cebe5996b2aeef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "619419db82f8d949",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "95a651bdbe89bbb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b969292672aba5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f76f3b80a126cd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdf31706485a51bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日志/2025-07-18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2025-07-18 的反向链接列表"
+            }
+          },
+          {
+            "id": "7a3b65aba44d5ea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日志/2025-07-18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-07-18 的出链列表"
+            }
+          },
+          {
+            "id": "14ae8043aa23516e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1f2c803220846664",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/前端/前端 Vue 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "前端 Vue 2 的大纲"
+            }
+          },
+          {
+            "id": "beb7e53ffb5f5a66",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "f48f2b8bc7838b10",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f20fa396c71e5c6d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "38f799c1a2457181",
+  "lastOpenFiles": [
+    "新建文本文档.txt",
+    "学习/杂项/Claude Code Router 配置.md",
+    "学习/杂项/Nvm 安装.md",
+    "学习/前端/Fetch&XHR.md",
+    "学习/后端/后端 Swagger.md",
+    "学习/后端/后端 数据库.md",
+    "欢迎.md",
+    "学习/杂项/AI 系统提示词/锻造者 (Forgemaster).md",
+    "学习/杂项/AI 系统提示词/协作者-上下文 (Collaborator-Context).md",
+    "学习/杂项/AI 系统提示词/协作者 (Collaborator).md",
+    "学习/杂项/AI 系统提示词",
+    "学习/前端/前端 Vue 2.md",
+    "学习/杂项",
+    "学习/后端",
+    "学习/前端",
+    "学习",
+    "工资系统/前端/其他工资标准.md",
+    "工资系统/前端/全局方法.md",
+    "工资系统/人员情况模块.md",
+    "工资系统/其他工资标准模块.md",
+    "日志/2025-07-30.md",
+    "工资系统/其他工资标准模块.assets/image-20250725101005187.png",
+    "Excalidraw/Drawing 2025-08-01 14.22.37.excalidraw.md",
+    "Excalidraw",
+    "日志",
+    "工资系统/前端",
+    "学习/杂项/Clash Verge Rev 教程.md",
+    "工资系统/其他工资标准模块.assets",
+    "日志/2025-07-18.md",
+    "工资系统",
+    "日志/2025.07.18.md"
+  ]
+}

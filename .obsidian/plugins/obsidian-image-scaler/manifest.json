@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-image-enhance",
+	"name": "Obsidian Image Scaler",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin allows you to scale images by dragging the edge of the image with your mouse.",
+	"author": "Chen Mo",
+	"authorUrl": "https://github.com/Chen-SC4?tab=repositories",
+	"isDesktopOnly": false
+}
