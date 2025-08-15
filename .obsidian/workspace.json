@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92107748811b186a",
+        "id": "645911f981914d70",
         "type": "tabs",
         "children": [
           {
-            "id": "38f799c1a2457181",
+            "id": "efca6adf15ce1967",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,41 +193,55 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "38f799c1a2457181",
+  "active": "10cebe5996b2aeef",
   "lastOpenFiles": [
-    "新建文本文档.txt",
-    "学习/杂项/Claude Code Router 配置.md",
-    "学习/杂项/Nvm 安装.md",
-    "学习/前端/Fetch&XHR.md",
-    "学习/后端/后端 Swagger.md",
-    "学习/后端/后端 数据库.md",
-    "欢迎.md",
-    "学习/杂项/AI 系统提示词/锻造者 (Forgemaster).md",
-    "学习/杂项/AI 系统提示词/协作者-上下文 (Collaborator-Context).md",
-    "学习/杂项/AI 系统提示词/协作者 (Collaborator).md",
-    "学习/杂项/AI 系统提示词",
-    "学习/前端/前端 Vue 2.md",
-    "学习/杂项",
-    "学习/后端",
-    "学习/前端",
-    "学习",
-    "工资系统/前端/其他工资标准.md",
-    "工资系统/前端/全局方法.md",
-    "工资系统/人员情况模块.md",
-    "工资系统/其他工资标准模块.md",
-    "日志/2025-07-30.md",
-    "工资系统/其他工资标准模块.assets/image-20250725101005187.png",
-    "Excalidraw/Drawing 2025-08-01 14.22.37.excalidraw.md",
-    "Excalidraw",
-    "日志",
-    "工资系统/前端",
-    "学习/杂项/Clash Verge Rev 教程.md",
-    "工资系统/其他工资标准模块.assets",
-    "日志/2025-07-18.md",
-    "工资系统",
-    "日志/2025.07.18.md"
+    "全局静态资源/Template/Test Template.md",
+    "测试.md",
+    "2025-08-14.md",
+    "探索与实验/常用工具技巧/笔记工具/Obsidian Template 用法.md",
+    "探索与实验/计算机概念/SSH 连接.md",
+    "探索与实验/常用工具技巧/笔记工具",
+    "探索与实验/计算机概念",
+    "探索与实验/常用工具技巧/AI 工具/Claude Code Router 配置.md",
+    "探索与实验/常用工具技巧/AI 工具",
+    "寻找工作/1-计算机基础/JWT.md",
+    "寻找工作/1-计算机基础/IO 多路复用.md",
+    "寻找工作/1-计算机基础/负载均衡.md",
+    "寻找工作/1-计算机基础/线程池.md",
+    "全局静态资源/Template",
+    "全局静态资源/Excalidraw/FrameDesign.excalidraw.md",
+    "全局静态资源/Excalidraw/PageCache.excalidraw.md",
+    "全局静态资源/Excalidraw/ThreadCache.excalidraw.md",
+    "全局静态资源/Excalidraw/TimeWheel.md",
+    "探索与实验/常用工具技巧/AI 工具/AI 系统提示词/协作者 (Collaborator).md",
+    "全局静态资源/Excalidraw/CentralCache.excalidraw.md",
+    "全局静态资源/Vault-Background/Sherry.png",
+    "全局静态资源/Vault-Background/Priestess.jpg",
+    "全局静态资源/Vault-Background/Makise-Kurisu.png",
+    "探索与实验/后端/后端 数据库.md",
+    "探索与实验/后端/后端 Swagger.md",
+    "全局静态资源/Vault-CSS/Anu-Background.css",
+    "全局静态资源/Vault-CSS/Anu-Card-Layout.css",
+    "全局静态资源/Vault-CSS/Anu-Card-Layout.txt.js",
+    "全局静态资源/Vault-CSS/Anu-Card-Layout.txt.css",
+    "全局静态资源/Vault-CSS/Anu-Card-Layout.txt",
+    "全局静态资源/Vault-CSS/Anu-Background.txt",
+    "寻找工作/2-核心技术栈/C++/GDB 的基础使用方法.md",
+    "寻找工作/2-核心技术栈/C++/模板元编程.md",
+    "寻找工作/2-核心技术栈/C++/面向对象的三大特征.md",
+    "寻找工作/2-核心技术栈/C++/小项目/内存池 Memory Pool.md",
+    "寻找工作/2-核心技术栈/C++/小项目/基数树 Radix Tree.md",
+    "寻找工作/2-核心技术栈/C++/Qt/Qt 多线程.md",
+    "寻找工作/2-核心技术栈/C++/Qt/Qt 连接 MySQL 数据库.assets/file-20250328132231394.png",
+    "寻找工作/2-核心技术栈/Java/学习/Redis.assets/file-20250428143301822.png",
+    "寻找工作/2-核心技术栈/Java/学习/Redis.assets/file-20250428142327413.png",
+    "寻找工作/2-核心技术栈/Java/学习/Redis.assets/file-20250428140349486.png",
+    "寻找工作/2-核心技术栈/Java/学习/Redis.assets/file-20250428135343657.png",
+    "寻找工作/2-核心技术栈/Java/学习/Redis.assets/file-20250427234548772.png",
+    "寻找工作/2-核心技术栈/Java/学习/Redis.assets/file-20250427162730567.png"
   ]
 }

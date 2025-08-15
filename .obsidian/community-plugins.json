@@ -4,5 +4,8 @@
   "obsidian-checklist-plugin",
   "obsidian-git",
   "obsidian-pangu",
-  "obsidian-image-enhance"
+  "obsidian-image-enhance",
+  "obsidian-style-settings",
+  "dataview",
+  "templater-obsidian"
 ]

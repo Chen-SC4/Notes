@@ -4,5 +4,6 @@
   "textFontFamily": "LXGW WenKai",
   "baseFontSize": 22,
   "monospaceFontFamily": "Fira Code",
-  "interfaceFontFamily": "LXGW WenKai"
+  "interfaceFontFamily": "LXGW WenKai",
+  "enabledCssSnippets": []
 }
